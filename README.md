@@ -43,11 +43,21 @@ Let’s build something meaningful together.</h5>
 
 ###
 
-[<img align="right" height="150" src="https://tenor.com/view/geto-suguru-yo-gif-1548404695050210079"  />](https://tenor.com/b0xSa8wYtkx.gif)
-! [] (https://github.com/AdityaSinghDevs/AdityaSinghDevs/blob/main/geto-suguru-yo.gif)
+
+<div style="display: flex; align-items: center;">
+  <!-- Geto Suguru GIF -->
+  <img src="https://github.com/AdityaSinghDevs/AdityaSinghDevs/blob/main/geto-suguru-yo.gif" width="295" height="295" />
+
+  <!-- Spotify card on the right -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" height="300" width="280" alt="Spotify Profile Card" />
+  </a>
+</div>
+
 
 
 ###
+
 
 <div align="left">
   <a href="adityasingh.devs@gmail." target="_blank">
@@ -80,7 +90,14 @@ Let’s build something meaningful together.</h5>
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&redirect=true)
 
-###
+
+
+
+
+
+
+
+
+
 
