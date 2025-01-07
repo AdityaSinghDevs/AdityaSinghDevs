@@ -54,9 +54,9 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake.svg" />
 </picture>
 
 ###
@@ -69,6 +69,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSinghDevs.AdityaSinghDevs&left_color=darkblue&right_color=blueviolet&left_text=Profile%20Views"  />
 
 ###
-<br>
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cegt7pxvqtotytbezc6zpnuoeu&count={3})<br>
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cegt7pxvqtotytbezc6zpnuoeu&unique={true|1|on|yes})
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&redirect=true)
+
