@@ -44,6 +44,7 @@ Let’s build something meaningful together.</h5>
 ###
 
 [<img align="right" height="150" src="https://tenor.com/view/geto-suguru-yo-gif-1548404695050210079"  />](https://tenor.com/b0xSa8wYtkx.gif)
+! [] (https://github.com/AdityaSinghDevs/AdityaSinghDevs/blob/main/geto-suguru-yo.gif)
 
 
 ###
