@@ -1,4 +1,4 @@
-<h2 align="left">Hey There 👋! My name is Aditya<br></h2> <h3 align= "left">AI and Data Science, Engineering Student</h3><hr>
+<h2 align="left">Hey There 👋! My name is Aditya<br></h2> <h3 align= "left">AI and Data Science, Engineering Student.</h3><h6>adityasingh.devs@gmail.com</h6><hr>
 <h4>About Me</h4><h5>Standing at the pivot of a generational shift in technology, I’m passionate about machine learning, deep learning, and the boundless potential of AI. Beyond the code, I explore the realms of artistry and philosophy, seeking meaning in both creation and thought.<br><br>
 
  <p> <i>
@@ -59,19 +59,23 @@ Let’s build something meaningful together.</h5>
 ###
 
 
-<div align="left">
-  <a href="adityasingh.devs@gmail." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/aditya-pratap-singh25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/AdityaDunksDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
 
-###
+
+[![Gmail](https://img.shields.io/badge/gmail-%20adityasingh.devs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000&labelColor=5a5a5a&borderRadius=25px)](mailto:adityasingh.devs@gmail.com)
+
+
+
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Pratap_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh25)
+
+<p>
+
+[![X](https://img.shields.io/badge/-@AdityaDunksDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AdityaDunksDev)
+
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake.svg" />
@@ -83,12 +87,10 @@ Let’s build something meaningful together.</h5>
 <div align="left">
 </div>
 
-###
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSinghDevs.AdityaSinghDevs&left_color=darkblue&right_color=blueviolet&left_text=Profile%20Views"  />
 <br>
-
-###
 
 
 
