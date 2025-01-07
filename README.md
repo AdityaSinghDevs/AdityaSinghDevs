@@ -1,4 +1,12 @@
-<h2 align="left">Hey There 👋! My name is Aditya<br></h2> <h3 align= "left">AI and Data Science, Engineering Student</h3>
+<h2 align="left">Hey There 👋! My name is Aditya<br></h2> <h3 align= "left">AI and Data Science, Engineering Student</h3><hr>
+<h4>About Me</h4><h5>Standing at the pivot of a generational shift in technology, I’m passionate about machine learning, deep learning, and the boundless potential of AI. Beyond the code, I explore the realms of artistry and philosophy, seeking meaning in both creation and thought.<br><br>
+
+ <p> <i>
+"To live is to suffer, to survive is to find some meaning in the suffering." – Nietzsche<br>
+"Everything we do, in art or in life, is the imperfect copy of what we thought of doing." – Fernando Pessoa</i>
+</p>
+
+Let’s build something meaningful together.</h5>
 
 ###
 
@@ -35,7 +43,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/geto-suguru-yo-gif-1548404695050210079"  />
+[<img align="right" height="150" src="https://tenor.com/view/geto-suguru-yo-gif-1548404695050210079"  />](https://tenor.com/b0xSa8wYtkx.gif)
 
 
 ###
@@ -67,8 +75,11 @@
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSinghDevs.AdityaSinghDevs&left_color=darkblue&right_color=blueviolet&left_text=Profile%20Views"  />
+<br>
 
 ###
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&redirect=true)
+
+###
 
