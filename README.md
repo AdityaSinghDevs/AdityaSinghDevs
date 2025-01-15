@@ -57,10 +57,14 @@ Let’s build something meaningful together.</h5>
   <img src="https://github.com/AdityaSinghDevs/AdityaSinghDevs/blob/main/geto-suguru-yo.gif" width="295" height="295" />
 
   <!-- Spotify card on the right -->
+  
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" height="300" width="280" alt="Spotify Profile Card" />
   </a>
 </div>
+
+
+<i><h3>    _______________________________________________  Last played __________________________________________________</h3>
 
 
 
