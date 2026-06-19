@@ -1,92 +1,85 @@
-<h2 align="left">Hey There 👋! My name is Aditya<br></h2> <h3 align= "left">AI and Data Science, Engineering Student.</h3><h6>adityasingh.devs@gmail.com</h6><hr>
-<h4>About Me</h4><h5>Standing at the pivot of a generational shift in technology, I’m passionate about machine learning, deep learning, and the boundless potential of AI. Beyond the code, I explore the realms of artistry and philosophy, seeking meaning in both creation and thought.<br><br>
+<div align="center">
 
- <p> <i>
-"To live is to suffer, to survive is to find some meaning in the suffering." – Nietzsche<br>
-"Everything we do, in art or in life, is the imperfect copy of what we thought of doing." – Fernando Pessoa</i>
-</p>
+# Aditya Pratap Singh
 
-Let’s build something meaningful together.</h5>
+## ·&nbsp;Mechanistic Interpretability &nbsp;·&nbsp; Transformers &nbsp;·&nbsp; NLP &nbsp;·&nbsp; LLMs ·&nbsp;
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=7B8EC8&center=true&vCenter=true&width=900&lines=your+best+self+is+a+hidden+state,+its+always+in+there.;what+doesn't+overfit%2C+makes+you+stronger.;to+live+is+to+forward+pass.+to+survive+is+to+backpropagate.;the+deeper+the+layer%2C+the+heavier+the+representation.;existence+is+just+a+long+forward+pass+with+no+guarantee+of+convergence.;attention+without+will+is+just+noise.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### **tl;dr**
+> I love building close to the metal, think from first principles, and have a weird thing for transformers and Mech Interp. Horror movies, philosophy, cooking, sketching, lifting weights and a terrible sleep schedule are all recurring themes around here. Building things, learning things and turning chaos into systems is what I do best.Sometimes it's a project, sometimes it's a paper, sometimes it's my own life. Three real projects, one preprint incoming, looking for research that actually matters. Just want to be part of taking something from 0 to 1 or 1 to 100.
+---
+
+I like working on Mech Interp, Language Models, NLP, 
+and everything that lives close to the metal in AI.
+
+Have a weird infatuation with transformers. Every week I feel 
+*"ohh, so that's how it works, now I finally get them"*,
+and every week they humble me back down. 
+A perfectly healthy relationship, you see.
+
+Research, infra, model internals and architectures, systems, new techniques and the complex maths behind it all, that's where I live. 
+Not really into the shiny layers on top. (You know, all of the Applied-AI and wrapper gold rush? Yeah, not really my cup of tea.)
+
+An itch to understand things from first principles, chasing the "Whys?" after all the "Hows?", Obsess over things until they're finished. I mean, Basically everything that plays a part in my messed up 
+sleep schedule (Trust me when I say, I am trying to fix it.)
+
+### Things I built that I'm proud of  :
+
+
+╰─► **[NanoLens](https://github.com/AdityaSinghDevs/NanoLens)** *(my current flagship. seriously, check this one out.)*
+- Built a character level autoregressive transformer from scratch. Tokenizer to attention heads to optimizer, every component hand coded in plain PyTorch. Made it modular and config driven for scalability up to 150M params. Then added a Mechanistic Interpretability
+toolkit to visualise attention patterns and hidden states across all heads and layers using simple CLI flags, Built as a research platform, not just a model
+- 25M parameters, 8 layers, 64 attention heads in total, trained on Dostoevsky and then dissected head-by-head through attention circuit and hidden-state analysis, and documented everything.
+
+╰─► **[Mimir](https://github.com/AdityaSinghDevs/Mimir)**  
+- Named after the Norse god of wisdom, Investigated whether structured reasoning actually reduces hallucinations in LLMs, or just moves the problem around. 12 controlled trials, real DevOPS based incident data, Qwen 2.5-3B.
+- Short answer: it depends. Ambiguity is the moderating variable nobody talks about. Long answer: read the repo.  ( Also the bridge that led me to this LLM rabbit hole I am falling into )
+
+
+╰─► **[Tesseract](https://github.com/AdityaSinghDevs/Tesseract)**
+- Started as a random internship assignment. They never got back to me. Built a production-grade text-to-3D inference system around OpenAI's Shape-E anyway.
+- Stateless async FastAPI backend, device-aware GPU/CPU fallback, modular config-driven pipeline. Then added a full benchmarking suite in v1.2, ran it, documented everything. Craziest finding: 330× CPU vs GPU slowdown. Wrote a long-form technical deep dive, got it [published in Towards AI](https://pub.towardsai.net) . Laid the foundations of every systems and engineering decision I've made since.
+ - *(their loss, honestly.)*
+
+ and some earlier work worth mentioning **ORCA**, a CV assistant embedded in wearable hardware for the visually impaired (face recognition, depth estimation, object detection). **Sky Sentinel X**, drone vs bird classification using micro-Doppler spectrograms and ResNet. **VULKYRIE**, chemical testing in carcasses via RGB detection and random forest regression, built for vulture conservation. different domains, same obsession with building things that actually do something real.
+
+
+### Beyond Code 
+- Scaled ADVAIT, an AI community in college from ~50 members to 530+ members as **President**, designed and built its division structure, launched technical events, workshops, speaker sessions, and project sprints and showcases.
+- You might find me watching horror movies, reading philosophy and journaling my own, cooking, sketching or maybe in the gym when i aint on the code.
+
+
+### Currently
+- Working on a preprint, reading papers, researching, understanding, learning and looking for a research internship where the work is real.
+
+
+Ambitious people, difficult problems, conversations where everyone walks out learning something, Yep, that's where my heart lies.
+I enjoy leading things. I enjoy learning even more. If the knowledge is real, I don't mind being the dumbest person in the room. 
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSinghDevs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&custom_title=My%20GitHub%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSinghDevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true" height="200" alt="languages graph"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" />
+<img width="8" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="24" />
+<img width="8" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="24" />
+<img width="8" />
+<img src="https://cdn.simpleicons.org/git/F05032" height="24" />
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=AdityaSinghDevs&theme=react-dark&hide_border=true&area=true&hide_title=true&color=7B8EC8&line=7B8EC8&point=ffffff)](https://github.com/AdityaSinghDevs)
 
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  height="30" />
-  <img width="12" />
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="35" />
-  <img width="12" />
-          
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo"  />
-</div>
-
-###
-
-
-<div style="display: flex; align-items: center;">
-  <!-- Geto Suguru GIF -->
-  <img src="https://github.com/AdityaSinghDevs/AdityaSinghDevs/blob/main/geto-suguru-yo.gif" width="295" height="295" />
-
-  <!-- Spotify card on the right -->
-  
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31cegt7pxvqtotytbezc6zpnuoeu&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" height="300" width="280" alt="Spotify Profile Card" />
-  </a>
-</div>
-
-
-<i><h3>    ______________________________________________________  Last played ______________________________________________</h3>
-
-
-
-###
-
-
-
-
-[![Gmail](https://img.shields.io/badge/gmail-%20adityasingh.devs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000&labelColor=5a5a5a&borderRadius=25px)](mailto:adityasingh.devs@gmail.com)
-
-
-
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Pratap_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh25)
-
-<p>
-
-[![X](https://img.shields.io/badge/-@AdityaDunksDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AdityaDunksDev)
-
-</p>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake-dark.svg" />
@@ -94,24 +87,14 @@ Let’s build something meaningful together.</h5>
   <img alt="github-snake" src="https://raw.githubusercontent.com/AdityaSinghDevs/AdityaSinghDevs/output/github-snake.svg" />
 </picture>
 
-###
+---
 
-<div align="left">
+<div align="center">
+
+[![mail](https://img.shields.io/badge/mail-adityasingh.devs%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)](mailto:adityasingh.devs@gmail.com)
+&nbsp;
+[![linkedin](https://img.shields.io/badge/linkedin-aditya--pratap--singh-1a1a2e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pratap-singh25)
+&nbsp;
+[![x](https://img.shields.io/badge/x-@AdityaDunksDev-1a1a2e?style=flat-square&logo=x&logoColor=white)](https://twitter.com/AdityaDunksDev)
+
 </div>
-
-
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AdityaSinghDevs.AdityaSinghDevs&left_color=darkblue&right_color=blueviolet&left_text=Profile%20Views"  />
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
