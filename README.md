@@ -11,7 +11,7 @@
 ---
 
 ### **tl;dr**
-> I love building close to the metal, think from first principles, and have a weird thing for transformers and Mech Interp. Horror movies, philosophy, cooking, sketching, lifting weights and a terrible sleep schedule are all recurring themes around here. Building things, learning things and turning chaos into systems is what I do best.Sometimes it's a project, sometimes it's a paper, sometimes it's my own life. Three real projects, one preprint incoming, looking for research that actually matters. Just want to be part of taking something from 0 to 1 or 1 to 100.
+> I love building close to the metal, think from first principles, and have a weird thing for transformers and Mech Interp. Horror movies, philosophy, cooking, sketching, lifting weights and a terrible sleep schedule are all recurring themes around here. Building things, learning things and turning chaos into systems is what I do best. Sometimes it's a project, sometimes it's a paper, sometimes it's my own life. Three real projects, one preprint incoming, looking for research that actually matters. Just want to be part of taking something from 0 to 1 or 1 to 100.
 ---
 
 I like working on Mech Interp, Language Models, NLP, 
